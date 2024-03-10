@@ -1,2 +1,2 @@
 # TDA
-Topological Data Analysis
+Visualisation of Nerves in Topology (Cech and Rips Complexes).
